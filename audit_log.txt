@@ -1,0 +1,3 @@
+2024-08-05T00:51:48.074774600 - User: user1 - Action: Created new car
+2024-08-05T00:51:48.116244100 - User: user2 - Action: Updated car details
+2024-08-05T00:51:48.116244100 - User: user1 - Action: Deleted a car

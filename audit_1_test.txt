@@ -1,0 +1,6 @@
+2024-08-05T09:38:12.829551100 - Action: Added user: q
+2024-08-05T09:38:17.044364400 - Action: User logged in: q
+2024-08-05T09:38:39.068224600 - User: Admin - Action: Added car: Car{carId=1, brand='w', model='w', price=1, year=1, condition=NEW}
+2024-08-05T09:39:08.655334800 - Action: Added user: w
+2024-08-05T09:39:08.670722200 - User: Admin - Action: Added user: User{id=2, name='w', username='w', password='w', role=CLIENT}
+2024-08-05T09:39:31.129522100 - Action: User logged in: q
