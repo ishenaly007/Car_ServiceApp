@@ -1,5 +1,6 @@
 Project Overview
-This project is a console-based application for managing users, cars, and orders. The application allows different user roles (Admin, Manager, Client) to interact with the system through a simple command-line interface. The primary features include user registration and authentication, car management, order management, and audit logging.
+
+  This project is a console-based application for managing users, cars, and orders. The application allows different user roles (Admin, Manager, Client) to interact with the system through a simple command-line interface. The primary features include user registration and authentication, car management, order management, and audit logging.
 
 Features
 1. User Management
